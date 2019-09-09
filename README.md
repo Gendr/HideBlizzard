@@ -101,7 +101,7 @@ You may hide the following:
 
 ## Configuration
 
-In game, type /hideblizz or /hideblizzard
+In game, type /hideblizz
 
 ## Report Issues
 
