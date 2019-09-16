@@ -1,0 +1,41 @@
+## Interface: 11302
+## Title: HideBlizzard |cff0080FF[Classic]|r
+## Notes: Hides blizzard UI frames
+## Notes-deDE: Hides blizzard UI frames
+## Notes-esES: Hides blizzard UI frames
+## Notes-esEX: Hides blizzard UI frames
+## Notes-frFR: Hides blizzard UI frames
+## Notes-itIT: Hides blizzard UI frames
+## Notes-koKR: Hides blizzard UI frames
+## Notes-ptBR: Hides blizzard UI frames
+## Notes-ruRU: Hides blizzard UI frames
+## Notes-zhCN: Hides blizzard UI frames
+## Notes-zhTW: Hides blizzard UI frames
+## Author: Gendr
+## Version: 1.0
+
+## SavedVariables: HideBlizzardDB
+## OptionalDeps: Ace3
+
+## X-Category: Class
+## X-Website: https://github.com/Gendr/HideBlizzard
+## X-Curse-Project-ID: 
+## X-WoWI-ID: 
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+
+Locales\enUS.lua
+
+HideBlizzard.lua
+
+Modules\ActionBar.lua
+Modules\Buttons.lua
+Modules\Pet.lua
+Modules\Player.lua
+Modules\SpecialFrames.lua
