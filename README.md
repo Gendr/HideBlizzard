@@ -1,4 +1,6 @@
 # HideBlizzard
+![release]
+![issues]
 
 Hides blizzard UI frames for World of Warcraft.
 
@@ -41,6 +43,7 @@ You may hide the following:
 + Menu
 + Quick Join
 + Chat Voice
++ ScrollBar
 
 ### Pet:
 + Pet Action Bar
@@ -103,6 +106,5 @@ You may hide the following:
 
 In game, type /hideblizz
 
-## Report Issues
-
-https://github.com/Gendr/HideBlizzard/issues/
+[release]: https://img.shields.io/github/v/release/Gendr/HideBlizzard
+[issues]: https://img.shields.io/github/issues/Gendr/HideBlizzard
