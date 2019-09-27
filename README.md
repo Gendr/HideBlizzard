@@ -1,6 +1,5 @@
 # HideBlizzard Classic
-![release]
-![issues]
+[![issues]](https://github.com/Gendr/HideBlizzard/issues)
 
 Hides blizzard UI frames for World of Warcraft Classic.
 
@@ -68,5 +67,4 @@ You may hide the following:
 ## Configuration
 In game, type /hideblizz
 
-[release]: https://img.shields.io/github/v/release/Gendr/HideBlizzard
 [issues]: https://img.shields.io/github/issues/Gendr/HideBlizzard
