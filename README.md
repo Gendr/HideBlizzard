@@ -1,6 +1,6 @@
 # HideBlizzard
-![release](https://github.com/Gendr/HideBlizzard/releases)
-![issues](https://github.com/Gendr/HideBlizzard/issues)
+[![release]](https://github.com/Gendr/HideBlizzard/releases)
+[![issues]](https://github.com/Gendr/HideBlizzard/issues)
 
 Hides blizzard UI frames for World of Warcraft.
 
