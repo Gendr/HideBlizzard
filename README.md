@@ -1,5 +1,4 @@
 # HideBlizzard
-
 Hides blizzard UI frames for World of Warcraft
 
 [Issues](https://github.com/Gendr/HideBlizzard/issues) [(New Issue)](https://github.com/Gendr/HideBlizzard/issues/new)
@@ -21,4 +20,4 @@ HideBlizzard works with WoW Classic! See supported frames located on the [classi
 CurseForge: <https://www.curseforge.com/wow/addons/hideblizzard>  
 WoWInterface: <https://www.wowinterface.com/downloads/info8988>  
 WoWInterface (Classic): <https://www.wowinterface.com/downloads/info25315>  
-GitHub: <https://github.com/Gendr/HideBlizzard/releases>  
+GitHub: <https://github.com/Gendr/HideBlizzard/releases>
