@@ -7,7 +7,7 @@ Hides blizzard UI frames for World of Warcraft
 [FAQ](https://github.com/Gendr/HideBlizzard/wiki/FAQ)
 
 Getting Started:
-- In-game, type /hideblizz
+- In-game, type `/hideblizz`
 
 You can help translate HideBlizzard for your language with the [localization tool](https://www.curseforge.com/wow/addons/hideblizzard/localization)
 
